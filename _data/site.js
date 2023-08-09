@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    title: "Hello World",
+    title: "SciAi Sphere",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     lang: "en",
     siteUrl: "https://example.com/",
@@ -10,11 +10,11 @@ module.exports = {
     filename: "atom.xml",
     path: "/atom.xml",
     id: "https://example.com/",
-    authorName: "John Doe",
-    authorEmail: "johndoe@example.com"
+    authorName: "Muhammad Rendy Saputra",
+    authorEmail: "muhammadrendysaputra767@gmail.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "SciAi Sphere",
+    description: "I will keep walking in the desert even if I don't find the end, I will keep walking."
   }
 }
